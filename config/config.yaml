@@ -1,0 +1,7 @@
+env: "local"
+
+storage_path: "./"
+token_ttl: 1h
+grpc:
+  host: "localhost"
+  port: 50051
